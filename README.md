@@ -3,6 +3,7 @@
 - **Finish your Zenefits paperwork.** If you haven't finished tax, payroll, and benefits onboarding on Zenefits, do it now! Ask Mike Linshi if you have any questions.
 
 
+
 - **Use a password manager.** Password managers make your life more secure and easier. If you're not already using one, you should start. There are several [free options](http://www.pcmag.com/article2/0,2817,2475964,00.asp); there is no company standard.
 
 
