@@ -1,6 +1,6 @@
 # Things to do on your computer (~30-45 minutes)
 
-- **Finish your Zenefits paperwork.** If you haven't finished tax, payroll, and benefits onboarding on Zenefits, do it now! Ask Lesley Bearg if you have any questions.
+- **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now! Ask Lesley Bearg if you have any questions.
 
 
 
@@ -21,4 +21,6 @@
 
 - **Sign up for Sherpaa (or not).** Watch [this video](https://vimeo.com/sherpaa/review/113927726/8de2379e14) to get a sense of what Sherpaa is all about. If you want to sign up for Sherpaa, email Lesley Bearg (Director of Finance) to introduce yourself and get set up. Sherpaa is also available to your spouse or domestic partner - details are in the [wiki](https://flatiron.atlassian.net/wiki/display/ER/Sherpaa).
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/staff-onboarding-tasks-computer' title='Things to do on your computer (~30-45 minutes)'>Things to do on your computer (~30-45 minutes)</a> on Learn.co and start learning to code for free.</p>
+<a href='https://learn.co/lessons/staff-onboarding-tasks-computer' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/staff-onboarding-tasks-computer'>On your computer</a> on Learn.co and start learning to code for free.</p>
