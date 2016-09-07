@@ -1,6 +1,6 @@
 # Things to do on your computer (~30-45 minutes)
 
-- **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now! Ask Lesley Bearg if you have any questions.
+- **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now! Ask Sarah Fox if you have any questions.
 
 
 
@@ -17,9 +17,6 @@
 
 
 - **Sign up for Learn!** You're already on the Staff Onboarding track on Learn! However, there are many other tracks of content that you can go through to learn how to code. Introduce yourself to Adam Jonas (Managing Director of Labs) to get set up. You can work through the content on your own time, and use the ask a question feature to get help at any time :)
-
-
-- **Sign up for Sherpaa (or not).** Watch [this video](https://vimeo.com/sherpaa/review/113927726/8de2379e14) to get a sense of what Sherpaa is all about. If you want to sign up for Sherpaa, email Lesley Bearg (Director of Finance) to introduce yourself and get set up. Sherpaa is also available to your spouse or domestic partner - details are in the [wiki](https://flatiron.atlassian.net/wiki/display/ER/Sherpaa).
 
 <a href='https://learn.co/lessons/staff-onboarding-tasks-computer' data-visibility='hidden'>View this lesson on Learn.co</a>
 
