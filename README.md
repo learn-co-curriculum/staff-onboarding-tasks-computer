@@ -6,7 +6,7 @@
 - **Review your [calendar](https://www.google.com/calendar).** In a new employee's first week, we set you up with a variety of lunches and coffees to get you meeting other members of the team. Undoubtedly, you already have other meeting invites too, so check them out!
 
 
-- **Set up Slack (chat app).** You may have already done this during your onboarding session, but be sure you have set upyour Slack. You will have invites in your GMail for any Slack teams you need access to already. You should definitely download the desktop app as well and you can do so by searching for the direct download version for Mac. There is also a [wiki guide to using Slack](https://flatiron.atlassian.net/wiki/display/ER/Common+tools).
+- **Set up Slack (chat app).** You may have already done this during your onboarding session, but be sure you have set up your Slack. You will have invites in your GMail for any Slack teams you need access to already. You should definitely download the desktop app as well and you can do so by searching for the direct download version for Mac. There is also a [wiki guide to using Slack](https://flatiron.atlassian.net/wiki/display/ER/Common+tools).
 
 
 - **Additional Learn Tracks** You're already here, so you're signed up for Learn. You've made your account and connected with Github. As you can imagine, are many other tracks of content that you can go through, or may need in your role. Be sure to ask your manager what you might need access to. Once you've done that introduce yourself to Adam Jonas (Director of Engineering) to get set up with any other tracks your need.
