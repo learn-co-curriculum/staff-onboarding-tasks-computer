@@ -1,6 +1,6 @@
 # Things to do on your computer
 
-- **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now. Finance needs a copy of your passport or combination of applicable documents as soon as possible. Ask Sarah Fox if you have any questions.
+- **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now. Finance needs a copy of your passport or combination of applicable documents as soon as possible. Additionally, within the first month you'll want to decide whether to accept or decline health insurance. JustWorks is filled with important and helpful information like a staff calendar, employee directory, and place to request time off - take it for a spin!
 
 
 - **Review your [calendar](https://www.google.com/calendar).** In a new employee's first week, we set you up with a variety of lunches and coffees to get you meeting other members of the team. Undoubtedly, you already have other meeting invites too, so check them out!
