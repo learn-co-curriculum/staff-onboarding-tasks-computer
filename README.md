@@ -2,7 +2,7 @@
 
 - **Finish your Justworks enrollment.** If you haven't finished tax, payroll, and benefits onboarding on Justworks, do it now. Finance needs a copy of your passport or combination of applicable documents as soon as possible. Additionally, within the first month you'll want to decide whether to accept or decline health insurance. JustWorks is filled with important and helpful information like a staff calendar, employee directory, and place to request time off - take it for a spin!
 
-- **Sign up for a 401k** While we don't have a company match, signing up for a 401k has other benefits to you. If you would like to sign up for an account, please visit this [website](https://secure.myubiquity.com/enrollnow). 
+- **Sign up for a 401k.** While we don't have a company match, signing up for a 401k has other benefits to you. If you would like to sign up for an account, please visit this [website](https://secure.myubiquity.com/enrollnow). 
 
 
 - **Review your [calendar](https://www.google.com/calendar).** In a new employee's first week, we set you up with a variety of lunches and coffees to get you meeting other members of the team. Undoubtedly, you already have other meeting invites too, so check them out! Also, be sure to add the [Community Events calendar](https://calendar.google.com/calendar/embed?src=flatironschool.com_lhdstd62mqmo6rc96bcf9qff04%40group.calendar.google.com&ctz=America/New_York0) to your GCal so you know what's going on around town. 
